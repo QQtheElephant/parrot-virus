@@ -26,5 +26,4 @@ Troll your friends with a fake parrot virus!
 
 ## Thanks
 [![Static Badge](https://img.shields.io/badge/Thanks%20to%20Hugomd%20for-gray?style=for-the-badge)](https://github.com/hugomd)
- 
 [![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-purple?style=for-the-badge)](https://github.com/hugomd/parrot.live)
