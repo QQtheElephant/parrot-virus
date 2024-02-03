@@ -1,7 +1,9 @@
 # Parrot Virus
 ![Static Badge](https://img.shields.io/badge/Troll-Your%20Friends-blue)
 ![Static Badge](https://img.shields.io/badge/Troll-Your%20Coworkers-purple)
-<object>![Static Badge](https://img.shields.io/badge/Made%20Possible%20by-parrot.live-red?link=https%3A%2F%2Fgithub.com%2Fhugomd%2Fparrot.live%3Ftab%3Dreadme-ov-file)<object>
+<object>
+![Static Badge](https://img.shields.io/badge/Made%20Possible%20by-parrot.live-red?link=https%3A%2F%2Fgithub.com%2Fhugomd%2Fparrot.live%3Ftab%3Dreadme-ov-file)
+</object>
 
 Troll your friends with a fake parrot virus!
 
