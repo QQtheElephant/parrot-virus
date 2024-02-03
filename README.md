@@ -25,6 +25,7 @@ Troll your friends with a fake parrot virus!
 ### Note 3 : 
 > Only works on Windows, I will make a Mac version if this gets famous
 
-## Made Possible With :
-[![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-gray?style=for-the-badge)
+## Thanks
+![Static Badge](https://img.shields.io/badge/Thanks%20to%20Hugomd%20for-stale?style=for-the-badge)
+ [![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-gray?style=for-the-badge)
 ](https://github.com/hugomd/parrot.live)
