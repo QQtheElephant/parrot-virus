@@ -1,7 +1,6 @@
 # Parrot Virus
-![Static Badge](https://img.shields.io/badge/Troll-Your%20Friends-blue)
-![Static Badge](https://img.shields.io/badge/Troll-Your%20Coworkers-purple)
-
+[![Static Badge](https://img.shields.io/badge/Troll-Your%20Friends-blue)](https://www.shutterstock.com/image-photo/annoyed-angry-man-raising-hands-600nw-2322736535.jpg)
+[![Static Badge](https://img.shields.io/badge/Troll-Your%20Coworkers-purple)](https://content.api.news/v3/images/bin/4f6f1c666eefbb59ccd4710f61c9a72a)
 [![Static Badge](https://img.shields.io/badge/Made%20Possible%20by-parrot.live-blue)](https://github.com/hugomd/parrot.live)
 
 Troll your friends with a fake parrot virus!
@@ -27,5 +26,5 @@ Troll your friends with a fake parrot virus!
 
 ## Thanks
 [![Static Badge](https://img.shields.io/badge/Thanks%20to%20Hugomd%20for-stale?style=for-the-badge)](https://github.com/hugomd)
- [![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-gray?style=for-the-badge)
-](https://github.com/hugomd/parrot.live)
+ 
+[![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-gray?style=for-the-badge)](https://github.com/hugomd/parrot.live)
