@@ -5,6 +5,9 @@
 
 Troll your friends with a fake parrot virus!
 
+## What will happen
+Application will spam parrot.live windows, Sometimes it closes the windows back, sometimes not.
+
 ## Installation
 1. Download the ZIP on your friends computer
 2. Put either `tab.parrot` or `parrot.bat` somewhere where your friend will probably click it
