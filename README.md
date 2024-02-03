@@ -1,7 +1,8 @@
 # Parrot Virus
 ![Static Badge](https://img.shields.io/badge/Troll-Your%20Friends-blue)
 ![Static Badge](https://img.shields.io/badge/Troll-Your%20Coworkers-purple)
-<object data="https://img.shields.io/badge/Made%20Possible%20by-parrot.live-blue?link=https://github.com/hugomd/parrot.live">
+
+[![Static Badge](https://img.shields.io/badge/Made%20Possible%20by-parrot.live-blue)](https://github.com/hugomd/parrot.live)
 
 Troll your friends with a fake parrot virus!
 
@@ -25,4 +26,5 @@ Troll your friends with a fake parrot virus!
 > Only works on Windows, I will make a Mac version if this gets famous
 
 ## Made Possible With :
-[hugomd/parrot.live](https://github.com/hugomd/parrot.live)
+[![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-gray?style=for-the-badge)
+](https://github.com/hugomd/parrot.live)
