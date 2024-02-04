@@ -33,7 +33,7 @@ so be ready to have a very hot computer
 
 ## Contribution
 DM me at Discord to contribute<br>
-[![Static Badge](https://img.shields.io/badge/Discord-QQtheElephant%237556-8A2BE2)](https://discordapp/users/992955930599764060)
+[![Static Badge](https://img.shields.io/badge/Discord-QQtheElephant%237556-8A2BE2)](https://discordapp.com/users/992955930599764060)
 
 ## Thanks
 [![Static Badge](https://img.shields.io/badge/Thanks%20to%20Hugomd%20for-gray?style=for-the-badge)](https://github.com/hugomd)
