@@ -14,6 +14,10 @@ Application will spam parrot.live windows, Sometimes it closes the windows back,
 3. Enjoy them have anxiety
 4. Run away as fast as you can
 
+## Parrot Bomb
+This is Parrot Virus but infinite, 
+so be ready to have a very hot computer
+
 ## Notes
 ### Note 1 : 
 > When trolling your friends,
