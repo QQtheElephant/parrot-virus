@@ -31,6 +31,10 @@ so be ready to have a very hot computer
 ### Note 3 : 
 > Only works on Windows, I will make a Mac version if this gets famous
 
+## Contribution
+DM me at Discord to contribute<br>
+[![Static Badge](https://img.shields.io/badge/Discord-QQtheElephant%237556-8A2BE2)](https://discordapp/users/992955930599764060)
+
 ## Thanks
 [![Static Badge](https://img.shields.io/badge/Thanks%20to%20Hugomd%20for-gray?style=for-the-badge)](https://github.com/hugomd)
 [![Static Badge](https://img.shields.io/badge/hugomd%2Fparrot.live-purple?style=for-the-badge)](https://github.com/hugomd/parrot.live)
